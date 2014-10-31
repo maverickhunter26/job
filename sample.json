@@ -1,0 +1,27 @@
+{
+	"jobid" : "jobid123",
+	"companyName" : "String",
+	"industry"    : "String",	
+	"title" : "String",
+	"location" : "String",	
+	"salmin" : "String",
+	"salmax" : "String",			
+	"responsibility" : "String",
+	"expmin" : "String",
+	"expmax" : "String",
+	"education" : "String",
+	"qualities" : "String",
+	"datePosted" : "String",
+	"validdate": "String",
+	"tags" : "String",
+	"industry" : "String"
+}
+
+//query
+
+{
+	"title" : "",
+	"location" : "",
+	"expmin" : "",
+	"expmax" : ""
+}
