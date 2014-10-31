@@ -11,5 +11,5 @@
   "scripts": {
   	"start": "node start.js"
   },
-   "main": "start.js",
+   "main": "start.js"
 }
